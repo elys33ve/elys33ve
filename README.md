@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elys33ve
-- I'm a computer science major
+- Computer science student
 - I mostly work with Python 3
 - Email: elys33ve@gmail.com
