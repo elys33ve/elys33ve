@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elys33ve
+- 👋 Hi, I’m Fiona.
 - Computer science student
 - I mostly work with python
 - Currently learning C++ and MATLAB
