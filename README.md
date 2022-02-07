@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Fiona.
 - Computer science student
-- I mostly work with python
 - For now, i'm here to learn and practice
 - Email: elys33ve@gmail.com
