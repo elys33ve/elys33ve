@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Fiona.
-- Computer science student at University of Cincinnati
-- For now, i'm just here to learn and practice
-- Email: oconnefa@mail.uc.edu
+
